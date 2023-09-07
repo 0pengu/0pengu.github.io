@@ -1,4 +1,5 @@
 .github-button {
+  display: block;
   margin-top: 10px;
   background-color: none;
   border: none;
