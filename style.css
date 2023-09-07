@@ -1,6 +1,5 @@
 .github-button {
   display: block;
-  margin-top: 10px;
   background-color: none;
   border: none;
   color: white;
@@ -9,6 +8,13 @@
   text-decoration: none;
   font-size: 16px;
   border-radius: 50%;
+  /* Use the fa-github icon */
   font-family: "Font Awesome 5";
   content: "\f09b";
+  /* Add the following CSS to make the button look like a GitHub logo */
+  width: 32px;
+  height: 32px;
+  background-color: #121212;
+  border-radius: 50%;
+  box-shadow: 0 0 1px #000;
 }
