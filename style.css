@@ -1,12 +1,12 @@
-.button {
-  background-color: #04AA6D;
+.github-button {
+  background-color: none;
   border: none;
   color: white;
   padding: 20px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
   font-size: 16px;
-  margin: 4px 2px;
   border-radius: 50%;
+  font-family: "Font Awesome 5";
+  content: "\f09b";
 }
